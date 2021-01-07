@@ -1,0 +1,22 @@
+{
+  "name": "apex-front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoannaMassassi/Apex-Front.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoannaMassassi/Apex-Front/issues"
+  },
+  "homepage": "https://github.com/JoannaMassassi/Apex-Front#readme",
+  "devDependencies": {
+    "webpack": "^5.11.1"
+  }
+}
